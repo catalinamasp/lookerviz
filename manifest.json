@@ -4,7 +4,7 @@
       "id": "custom-line-area-chart",
       "label": "Custom Line and Area Chart",
       "description": "A custom visualization combining line and area charts.",
-      "icon": "https://example.com/icon.png",
+      "icon": "https://catalinamasp.github.io/lookerviz/icon.png",  // Optional: Can be left out
       "script": "https://catalinamasp.github.io/lookerviz/chart.js"
     }
   ]
