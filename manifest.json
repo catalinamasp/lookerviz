@@ -1,0 +1,11 @@
+{
+  "visualizations": [
+    {
+      "id": "custom-line-area-chart",
+      "label": "Custom Line and Area Chart",
+      "description": "A custom visualization combining line and area charts.",
+      "icon": "https://example.com/icon.png",
+      "script": "https://catalinamasp.github.io/lookerviz/chart.js"
+    }
+  ]
+}
